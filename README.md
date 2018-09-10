@@ -68,11 +68,4 @@ Seaborn : 0.8.1
 
 ## Authors
 
-* **Sai Vinod Manirevu** - *Initial work* - [linkedin - saivinodmanirevu](https://www.linkedin.com/in/saivinodmanirevu)
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+* **Sai Vinod Manirevu** - [linkedin - saivinodmanirevu](https://www.linkedin.com/in/saivinodmanirevu)
